@@ -28,7 +28,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://dictionary-react-project.netlify.app/"
+            href="https://dictionary-react-project-hw.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
